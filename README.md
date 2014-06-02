@@ -1,0 +1,4 @@
+sillycat-di
+===========
+
+DI feature
